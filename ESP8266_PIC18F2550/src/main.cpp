@@ -16,8 +16,8 @@
 #include <PubSubClient.h>     // Libreria MQTT
 
 //Credenciales para Conexion WIFI
-#define WIFI_SSID "CRESPO"                     // SSID del WIFI
-#define WIFI_PASS "16112005"                   // Password del WIFI
+#define WIFI_SSID "XXXX"                     // SSID del WIFI
+#define WIFI_PASS "XXXX"                   // Password del WIFI
 
 #define MQTT_CLIENT_NAME "ESP8266_0000001"       //Cliente ID MQTT, Base ESP32_ + DEVICE_ID
 #define MQTT_CLIENT_USER "curso_iot"             //User MQTT
